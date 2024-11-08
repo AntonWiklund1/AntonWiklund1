@@ -47,4 +47,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AntonWiklund1/AntonWiklund1/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/AntonWiklund1/AntonWiklund1/output/github-snake.svg" />
 </picture>
-###
