@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Anton Wiklund and I'm a Ai specialist</h2>
+<h2 align="left">Hi 👋 I’m Anton Wiklund — I build AI-powered software that solves real-world problems</h2>
 
 ###
 
